@@ -485,7 +485,7 @@ nav#block-os-primary-menu {
 #menu-bar #block-os-primary-menu {
 	margin-left: auto;
 	margin-right: auto;
-	width: 980px;
+	width: 1080px;
 }
 #columns,
 #footer .gpanel,
@@ -525,9 +525,12 @@ nav#block-os-primary-menu {
 }
 #menu-bar {
 	background: #fff;
+<<<<<<< HEAD
 	margin-left:auto;
 	margin-right:auto;
-	width:980px;
+	width:1080px;
+=======
+>>>>>>> parent of 1682f90... Update hms.css
 }
 #layout_16_9_overlay .slide-copy p,
 #layout_16_9_overlay .slide-copy h2,
