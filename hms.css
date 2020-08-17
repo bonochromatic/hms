@@ -684,4 +684,8 @@ h2.block-title {
     width: 33%;
 
 }
+#block-os-secondary-menu ul.menu li
+{
+	list-style:none;background-color:#FFFFFF !important;
+}
 }
