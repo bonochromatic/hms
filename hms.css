@@ -526,10 +526,13 @@ nav#block-os-primary-menu {
 #menu-bar {
 	background: #fff;
 }
-div#columns div#region div#region-inner div#block-os-teachonlinesidebar, div#columns div#region div#region-inner div#block-os-teachonlinesidebar UL.menu, div#columns div#region div#region-inner div#block-os-teachonlinesidebar UL.menu LI
+
+div#columns .os-custom-menu A:hover, div#columns #block-os-primary-menu A:hover, div#columns #block-os-secondary-menu A:hover
 {
-	background-color:white !important;
+	background-color: #white !important;
 }
+
+
 
 #layout_16_9_overlay .slide-copy p,
 #layout_16_9_overlay .slide-copy h2,
