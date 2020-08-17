@@ -531,7 +531,7 @@ nav#block-os-primary-menu {
 
 div#columns .os-custom-menu A:hover, div#columns #block-os-primary-menu A:hover, div#columns #block-os-secondary-menu A:hover
 {
-	background-color: #white !important;
+	background-color: white !important;
 }
 
 
