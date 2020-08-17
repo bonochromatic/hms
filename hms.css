@@ -526,6 +526,14 @@ nav#block-os-primary-menu {
 #menu-bar {
 	background: #fff;
 }
+#page-wrapper #columns .os-custom-menu ul.menu li, #page-wrapper #columns .block-os-teachonlinesidebar ul.menu li
+{
+	background-color:white !important;
+}
+
+{
+	background-color:white !important;
+}
 
 #layout_16_9_overlay .slide-copy p,
 #layout_16_9_overlay .slide-copy h2,
@@ -684,7 +692,4 @@ h2.block-title {
     width: 33%;
 
 }
-#columns .block-os-teachonlinesidebar .os-custom-menu ul.menu li
-{
-	background-color:white !important;
 }
