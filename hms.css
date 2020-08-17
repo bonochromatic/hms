@@ -526,7 +526,7 @@ nav#block-os-primary-menu {
 #menu-bar {
 	background: #fff;
 }
-#columns .os-custom-menu ul.menu li
+div#columns div#region div#region-inner div#block-os-teachonlinesidebar, div#columns div#region div#region-inner div#block-os-teachonlinesidebar UL.menu, div#columns div#region div#region-inner div#block-os-teachonlinesidebar UL.menu LI
 {
 	background-color:white !important;
 }
