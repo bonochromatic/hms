@@ -12,7 +12,10 @@
 */
 .sidebar .nobarsidebar {
 	border-top:0px !important;
-	
+
+}
+.ebg0 a, .ebg0 a * {
+	    color: #a41034 !important;
 }
 #branding_footer a {
 	color: #000;
