@@ -10,6 +10,10 @@
 	padding-top: 50px;
 }
 */
+#columns .block-boxes-os_boxes_html a, #columns .field-name-body a
+{
+	text-decoration:none !important;
+}
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 
