@@ -61,6 +61,7 @@ a.follow-icon {
 .ui-tabs .ui-tabs-nav li a,
 .sidebar h2.block-title {
 	text-transform: none;
+	font-size:16px !important;
 }
 .ui-tabs .ui-tabs-nav li a,
 .sidebar h2.block-title {
