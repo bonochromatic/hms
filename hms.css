@@ -92,11 +92,8 @@ a.follow-icon {
 	top: 9px;
 	font-size: 4em;
 }
-@media screen and (max-width: 600px) {
-	.sidebartrumba {
-		margin-left:20px !important;
-	}
-
+.sidebartrumba {
+	margin-left:20px !important;
 }
 @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
 
@@ -691,9 +688,12 @@ h2.block-title {
 	.block-boxes-os_slideshow_box .slide {
 		min-height: auto !important;
 	}
-#menu-bar nav.block-boxes,
+	#menu-bar nav.block-boxes,
 	#menu-bar #layout_3_1_overlay {
 		margin-top: 0;
+	}
+	.sidebartrumba {
+		margin-left:0px !important;
 	}
 }
 
@@ -701,6 +701,9 @@ h2.block-title {
 
 .footer .panel-row {
     float: left !important;
+}
+.sidebartrumba {
+	margin-left:0px !important;
 }
 
 
@@ -717,4 +720,5 @@ h2.block-title {
     width: 33%;
 
 }
+
 }
