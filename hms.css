@@ -45,6 +45,9 @@ a:visited {
 .trumbaslider H2.block-title {
 	text-transform: capitalize !important;
 	font-size:48px !important;
+	font-family:Libre Franklin !important;
+	margin-bottom:30px;
+
 }
 .ui-tabs .ui-state-default a,
 .ui-tabs .ui-state-default a:link,
