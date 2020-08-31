@@ -69,8 +69,9 @@ a.follow-icon {
 	letter-spacing: 0;
 }
 .sidebar h2.block-title {
-	font-size:16px !important;
-}	
+	font-size:16px
+}
+
 
 #menu-bar ul.nice-menu .menuparent>a:before,
 .accordion .ui-state-default .ui-icon-triangle-1-e.ui-icon,
@@ -90,6 +91,12 @@ a.follow-icon {
 	content: '-';
 	top: 9px;
 	font-size: 4em;
+}
+@media screen and (max-width: 600px) {
+	.hg_container {
+		margin-left: 20px !important;
+	}
+
 }
 @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
 
