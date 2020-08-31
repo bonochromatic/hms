@@ -93,8 +93,8 @@ a.follow-icon {
 	font-size: 4em;
 }
 @media screen and (max-width: 600px) {
-	.sidebar .contextual-links-region {
-		padding-left: 20px;
+	.sidebartrumba {
+		margin-left:20px !important;
 	}
 
 }
