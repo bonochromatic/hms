@@ -16,7 +16,15 @@
 }
 .sidebar .nobarsidebar {
 	border-top:0px !important;
-
+}
+.region region-footer-bottom DIV.footerlogo, .region region-footer-bottom DIV.footeraddress,   {
+	margin-left:20px;
+}
+.region region-footer-bottom .footeraddress {
+	margin-top:20px;
+}
+.content UL LI {
+	margin-bottom:6px;
 }
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
