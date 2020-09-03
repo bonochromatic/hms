@@ -17,7 +17,7 @@
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 }
-.footerlogo, .footeraddress,   {
+.region-footer-bottom .footerlogo, .region-footer-bottom .footeraddress {
 	margin-left:20px !important;
 }
 .region-footer-bottom .footeraddress {
