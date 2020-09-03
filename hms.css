@@ -17,15 +17,11 @@
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 }
-DIV.footerlogo, DIV.footeraddress,   {
+.footerlogo, .footeraddress,   {
 	margin-left:20px !important;
 }
 .region-footer-bottom .footeraddress {
 	margin-top:20px;
-}
-.block-os-pages-main-content UL  {
-	border-spacing:6px;
-	border-collapse: separate;
 }
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
