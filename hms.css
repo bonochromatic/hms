@@ -17,10 +17,10 @@
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 }
-.region-footer-bottom .footerlogo, .region-footer-bottom .footeraddress {
+.region-footer-first .footerlogo, .region-footer-first .footeraddress {
 	margin-left:20px !important;
 }
-.region-footer-bottom .footeraddress {
+.region-footer-first .footeraddress {
 	margin-top:20px;
 }
 th.ebg0 a, th.ebg0 a * {
