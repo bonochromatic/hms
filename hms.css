@@ -17,14 +17,14 @@
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 }
-.region-footer-bottom DIV.footerlogo, .region region-footer-bottom DIV.footeraddress,   {
-	margin-left:20px;
+DIV.footerlogo, DIV.footeraddress,   {
+	margin-left:20px !important;
 }
 .region-footer-bottom .footeraddress {
 	margin-top:20px;
 }
 .block-os-pages-main-content UL LI {
-	margin-bottom:6px;
+	margin-bottom:6px !important;
 }
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
