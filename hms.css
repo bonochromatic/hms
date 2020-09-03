@@ -17,10 +17,10 @@
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 }
-.region region-footer-bottom DIV.footerlogo, .region region-footer-bottom DIV.footeraddress,   {
+.region-footer-bottom DIV.footerlogo, .region region-footer-bottom DIV.footeraddress,   {
 	margin-left:20px;
 }
-.region region-footer-bottom .footeraddress {
+.region-footer-bottom .footeraddress {
 	margin-top:20px;
 }
 .block-os-pages-main-content UL LI {
