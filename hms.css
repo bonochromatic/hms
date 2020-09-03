@@ -23,8 +23,9 @@ DIV.footerlogo, DIV.footeraddress,   {
 .region-footer-bottom .footeraddress {
 	margin-top:20px;
 }
-.block-os-pages-main-content UL LI {
-	margin-bottom:6px !important;
+.block-os-pages-main-content UL  {
+	border-spacing:6px;
+	border-collapse: separate;
 }
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
