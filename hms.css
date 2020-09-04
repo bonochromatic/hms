@@ -28,7 +28,7 @@
 }
 .field-name-body ul li {
 	display:list-item;
-	list-style: square;
+	list-style: disc;
 	margin-bottom:1em;
 }
 .field-name-body ul li:last-child {
@@ -37,6 +37,15 @@
 .field-name-body ul, .field-name-body ul li {
 	list-style-position: inside !important;
 }
+.field-name-body table ul {
+    list-style: disc outside none; 
+    margin-left: 0; 
+    padding-left: 1em;
+}
+.field-name-body table li {
+    padding-left: 1em;
+}
+
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
 	font-weight:normal;
