@@ -64,7 +64,7 @@ a:visited {
 	text-decoration:none !important;
 }
 .field-name-body a:hover {
-	text-decoration:underline;
+	text-decoration:underline !important;
 }
 .trumbaslider H2.block-title {
 	text-transform: capitalize !important;
