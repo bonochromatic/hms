@@ -27,7 +27,11 @@
 	content:none !important;
 }
 .field-name-body ul li {
-	display:block;
+	display:list-item;
+	margin-bottom:1em;
+}
+.field-name-body ul li:last-child {
+	margin-bottom:0em;
 }
 }
 th.ebg0 a, th.ebg0 a * {
