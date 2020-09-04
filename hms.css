@@ -34,7 +34,7 @@
 .field-name-body ul li:last-child {
 	margin-bottom:0em;
 }
-#content-column .block ul {
+.field-name-body ul, .field-name-body ul li {
 	list-style-position: inside !important;
 }
 th.ebg0 a, th.ebg0 a * {
