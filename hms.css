@@ -35,8 +35,10 @@
 .field-name-body ul li:last-child {
 	margin-bottom:0em;
 }
-.field-name body a:hover {
+.field-name-body a {
 	color:#ad182d;
+}
+.field-name-body a:hover {
 	text-decoration:underline;
 }
 th.ebg0 a, th.ebg0 a * {
