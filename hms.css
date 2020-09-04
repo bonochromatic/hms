@@ -30,12 +30,15 @@
 	display:list-item;
 	list-style: disc;
 	margin-bottom:1em;
-	padding-left:3em;
+	padding-left:1em;
 }
 .field-name-body ul li:last-child {
 	margin-bottom:0em;
 }
-
+.field-name body a:hover {
+	color:#ad182d;
+	text-decoration:underline;
+}
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
 	font-weight:normal;
