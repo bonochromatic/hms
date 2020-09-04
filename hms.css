@@ -38,7 +38,7 @@
 	list-style-position: inside !important;
 }
 .field-name-body table ul {
-    list-style: disc outside none; 
+    list-style: disc outside none !important; 
     margin-left: 0; 
     padding-left: 1em;
 }
