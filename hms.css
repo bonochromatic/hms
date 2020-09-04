@@ -30,20 +30,10 @@
 	display:list-item;
 	list-style: disc;
 	margin-bottom:1em;
+	padding-left:3em;
 }
 .field-name-body ul li:last-child {
 	margin-bottom:0em;
-}
-.field-name-body ul, .field-name-body ul li {
-	list-style-position: inside !important;
-}
-.field-name-body table ul {
-    list-style: disc outside none !important; 
-    margin-left: 0; 
-    padding-left: 1em;
-}
-.field-name-body table li {
-    padding-left: 1em;
 }
 
 th.ebg0 a, th.ebg0 a * {
