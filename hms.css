@@ -35,12 +35,6 @@
 .field-name-body ul li:last-child {
 	margin-bottom:0em;
 }
-.field-name-body a {
-	color:#ad182d;
-}
-.field-name-body a:hover {
-	text-decoration:underline;
-}
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
 	font-weight:normal;
@@ -64,6 +58,12 @@ th.ebg0 a, th.ebg0 a * {
 a,
 a:visited {
 	color: #000;
+}
+.field-name-body a, .field-name-body a:visited {
+	color:#ad182d;
+}
+.field-name-body a:hover {
+	text-decoration:underline;
 }
 .trumbaslider H2.block-title {
 	text-transform: capitalize !important;
