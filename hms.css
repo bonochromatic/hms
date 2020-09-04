@@ -23,6 +23,13 @@
 .region-footer-first .footeraddress {
 	margin-top:20px;
 }
+.field-name-body ul li:before {
+	content:none !important;
+}
+.field-name-body ul li {
+	display:block;
+}
+}
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
 	font-weight:normal;
