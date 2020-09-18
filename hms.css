@@ -84,6 +84,7 @@ a:visited {
 	text-decoration:none !important;
 }
 .field-name-body a:hover,
+.accordion-panel ul li a:hover,
 .accordion-panel a:hover  {
 	text-decoration:underline !important;
 }
