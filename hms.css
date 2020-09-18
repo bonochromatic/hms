@@ -5,11 +5,22 @@
 	max-width: 1170px;
 	margin: auto;
 }
+h3 {
+	outline:none !important;
+}
 /*
 #header-container .block-boxes-os_boxes_site_info .block-inner {
 	padding-top: 50px;
 }
 */
+.sidebar .block, 
+.front #content-column .block, 
+#content-column .block.block-boxes-os_boxes_columns .block, 
+.node-person .block-inner, 
+.comment-wrapper {
+	border-top:4px solid #000;
+}
+
 #columns .block-boxes-os_boxes_html a
 {
 	text-decoration:none !important;
@@ -36,7 +47,8 @@
 	margin-bottom:0em;
 }
 .content-inner ul li {
-	padding
+	padding-left:0px;
+	margin-left:1em;
 }
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
