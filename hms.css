@@ -35,6 +35,9 @@
 .field-name-body ul li:last-child {
 	margin-bottom:0em;
 }
+.content-inner ul li {
+	padding
+}
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
 	font-weight:normal;
@@ -62,8 +65,10 @@ a:visited {
 .field-name-body a, 
 .field-name-body a:visited, 
 .accordion-panel a, 
-.accordion-panel a:visited {
-	color:#ad182d;
+.accordion-panel a:visited,
+.accordion-panel ul li a, 
+.accordion-panel ul li a:visited {
+	color:#ad182d !important;
 	text-decoration:none !important;
 }
 .field-name-body a:hover,
@@ -166,10 +171,10 @@ a.follow-icon {
 }
 .region-inner h2.block-title {
 	font-size:16px;
-	font-variant: normal;
+	font-variant: normal !important;
 }
-.ui-accordion .ui-accordion-header, 
-.ui-accordion .ui-accordion-content, {
+.ui-accordion-header, 
+.ui-accordion-content, {
 	outline:none;
 }
 .ui-accordion .ui-accordion-content {
