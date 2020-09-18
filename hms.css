@@ -59,11 +59,15 @@ a,
 a:visited {
 	color: #000;
 }
-.field-name-body a, .field-name-body a:visited {
+.field-name-body a, 
+.field-name-body a:visited, 
+.accordion-panel a, 
+.accordion-panel a:visited {
 	color:#ad182d;
 	text-decoration:none !important;
 }
-.field-name-body a:hover {
+.field-name-body a:hover,
+.accordion-panel a:hover  {
 	text-decoration:underline !important;
 }
 .trumbaslider H2.block-title {
@@ -157,9 +161,19 @@ a.follow-icon {
 .front .swipe h2.block-title:after {
 	font-family: "Material Icons";
 	content: " \e5c8";
-	
 	display: inline;
 	border: none;
+}
+.region-inner h2.block-title {
+	font-size:16px;
+	font-variant: normal;
+}
+.ui-accordion .ui-accordion-header, 
+.ui-accordion .ui-accordion-content, {
+	outline:none;
+}
+.ui-accordion .ui-accordion-content {
+	border-bottom:0;
 }
 .node-person .pic-bio~.block h2.block-title {
 	text-transform: none;
@@ -199,6 +213,8 @@ a.follow-icon {
 .swipe:hover h3 a,
 .swipe:hover p,
 .swipe:hover p a,
+.swipe:hover ul li,
+.swipe:hover ul li a,
 .not-front .block-boxes.block-boxes-os_boxes_html .boxes-box-content:hover div {
 	position: relative;
 	z-index: 1;
@@ -424,8 +440,12 @@ h1#page-title {
 #content-column .block.block-boxes-os_boxes_columns .block,
 .node-person .block-inner,
 .comment-wrapper {
-	border-top: 4px solid #000;
+	/* border-top: 4px solid #000; */
 	margin-top: 12px;
+}
+.boxes-box-os_pages_section_nav {
+	border-bottom:4px solid #000;
+	padding-bottom:15px;
 }
 .rslides img {
 	width: 100%;
