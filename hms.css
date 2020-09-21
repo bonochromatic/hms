@@ -182,7 +182,7 @@ a.follow-icon {
 	display: inline;
 	border: none;
 }
-.swipe h2.block-title:after {
+.swipe .block-content h2.block-title a:after {
 	font-family: "Material Icons";
 	content: " \e5c8";
 	display: inline;
