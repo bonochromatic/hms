@@ -8,6 +8,18 @@
 h3 {
 	outline:none !important;
 }
+dt {
+	margin-bottom:.5em;
+}
+dt a:after {
+	font-family: "Material Icons";
+	content: " \e5c8";
+	display: inline-block;
+	border: none !important;
+	position:relative;
+	margin-left:.2em;
+	top:.05em;
+}
 /*
 #header-container .block-boxes-os_boxes_site_info .block-inner {
 	padding-top: 50px;
@@ -84,7 +96,7 @@ a:visited {
 	text-decoration:none !important;
 }
 .field-name-body a:hover,
-.accordion-panel ul li a:hover,
+.accordion-panel li a:hover,
 .accordion-panel a:hover  {
 	text-decoration:underline !important;
 }
@@ -150,9 +162,6 @@ a.follow-icon {
 }
 @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
 
-.front .block-boxes.swipe {
-	min-height:370px;
-}
 .accordion h3.ui-state-default.ui-state-active:before {
 	
 	font-size: 1.4em;
@@ -182,9 +191,11 @@ a.follow-icon {
 .front .swipe h2.block-title:after {
 	font-family: "Material Icons";
 	content: " \e5c8";
-	display: inline;
-	border: none;
-}
+	display: inline-block;
+	border: none !important;
+	position:relative;
+	margin-left:.2em;
+	top:.1em;}
 
 .swipe h2 a:after {
 	font-family: "Material Icons";
