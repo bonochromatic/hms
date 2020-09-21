@@ -182,6 +182,12 @@ a.follow-icon {
 	display: inline;
 	border: none;
 }
+.swipe h2.block-title:after {
+	font-family: "Material Icons";
+	content: " \e5c8";
+	display: inline;
+	border: none;
+}
 .region-inner h2.block-title {
 	font-size:16px;
 	font-variant: normal !important;
@@ -469,7 +475,7 @@ h1#page-title {
 	width: 100%;
 }
 .front .region-content-top h2:after {
-	display: none!important;
+	/*display: none!important;*/
 }
 .front h2.block-title:after {
 	content: ' ';
