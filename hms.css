@@ -103,6 +103,9 @@ a:visited {
 .accordion-panel ul {
 	margin-bottom:0px;
 }
+.accordion-panel {
+	margin-bottom:0px;
+}
 .trumbaslider H2.block-title {
 	text-transform: capitalize !important;
 	font-size:48px !important;
@@ -428,6 +431,9 @@ p,
 	content: '';
 	top: 0!important;
 	margin-bottom: 0;
+}
+.section-nav ul li {
+	line-height:22px;
 }
 .section-nav ul.menu li a {
 	border-bottom: none;
