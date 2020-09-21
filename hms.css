@@ -100,6 +100,9 @@ a:visited {
 .accordion-panel a:hover  {
 	text-decoration:underline;
 }
+.accordion-panel ul {
+	margin-bottom:0px;
+}
 .trumbaslider H2.block-title {
 	text-transform: capitalize !important;
 	font-size:48px !important;
