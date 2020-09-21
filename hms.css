@@ -182,12 +182,21 @@ a.follow-icon {
 	display: inline;
 	border: none;
 }
+
 .swipe h2 a:after {
-	font-family: "Material Icons" !important;
-	content: " \e5c8" !important;
-	display: inline !important;
+	font-family: "Material Icons";
+	content: " \e5c8";
+	display: inline-block;
 	border: none !important;
+	position:relative;
+	margin-left:.2em;
+	top:.1em;
 }
+
+.front .block-boxes.swipe {
+	min-height:370px;
+}
+
 .region-inner h2.block-title {
 	font-size:16px;
 	font-variant: normal !important;
