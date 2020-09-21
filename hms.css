@@ -18,7 +18,7 @@ dt a:after {
 	border: none !important;
 	position:relative;
 	margin-left:.2em;
-	top:.05em;
+	top:.075em;
 }
 /*
 #header-container .block-boxes-os_boxes_site_info .block-inner {
@@ -456,7 +456,7 @@ p,
 	background: #ffffff !important;
 }
 .section-nav ul.menu li li a {
-	padding: 8px 26px;
+	padding: 4px 26px;
 }
 h1#page-title {
 	font-size: 60px;
