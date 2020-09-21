@@ -150,6 +150,9 @@ a.follow-icon {
 }
 @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
 
+.front .block-boxes.swipe {
+	min-height:370px;
+}
 .accordion h3.ui-state-default.ui-state-active:before {
 	
 	font-size: 1.4em;
@@ -191,10 +194,6 @@ a.follow-icon {
 	position:relative;
 	margin-left:.2em;
 	top:.1em;
-}
-
-.front .block-boxes.swipe {
-	min-height:370px;
 }
 
 .region-inner h2.block-title {
