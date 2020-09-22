@@ -40,11 +40,14 @@ dt a:after {
 .sidebar .nobarsidebar {
 	border-top:0px !important;
 }
-.region-footer-first .footerlogo, .region-footer-first .footeraddress {
+.region-footer-first .footerlogo {
 	margin-left:20px !important;
 }
 .region-footer-first .footeraddress {
 	margin-top:20px;
+}
+.footeraddress a:hover {
+	text-decoration:underline;
 }
 .field-name-body ul li:before {
 	content:none !important;
