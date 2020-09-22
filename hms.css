@@ -24,8 +24,10 @@ dt a:after {
 #content-panels .block-boxes-os_boxes_accordion h2.block-title
 {
 	text-transform: initial !important;
-	font-size:20px;
+	font-size:24px;
 	font-family: "Libre Franklin", sans-serif !important;
+	font-weight:700;
+	margin-bottom:10px;
 }
 /*
 #header-container .block-boxes-os_boxes_site_info .block-inner {
