@@ -20,6 +20,11 @@ dt a:after {
 	margin-left:.2em;
 	top:.075em;
 }
+os_boxes_accordion h2.blocktitle
+{
+	text-transform: normal;
+	font-size:20px;
+}
 /*
 #header-container .block-boxes-os_boxes_site_info .block-inner {
 	padding-top: 50px;
