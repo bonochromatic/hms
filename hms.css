@@ -23,7 +23,7 @@ dt a:after {
 
 .block-boxes-os_boxes_accordion h2.block-title
 {
-	text-transform: normal !important;
+	text-transform: initial !important;
 	font-size:20px;
 	font-family: "Libre Franklin", sans-serif !important;
 }
