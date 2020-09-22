@@ -65,6 +65,9 @@ dt a:after {
 	padding-left:0px;
 	margin-left:1em;
 }
+#block-os-secondary-menu a:hover {
+	text-decoration:underline;
+}
 th.ebg0 a, th.ebg0 a * {
 	color: #a41034;
 	font-weight:normal;
