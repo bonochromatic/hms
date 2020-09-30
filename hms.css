@@ -21,6 +21,16 @@ dt a:after {
 	top:.075em;
 }
 
+div.materialiconfloat {
+	font-size:48px;
+	margin-right:10px;
+	float:left;
+}
+
+p.materialiconparagraph {
+	overflow: hidden !important;
+}
+
 #content-panels .block-boxes-os_boxes_accordion h2.block-title
 {
 	text-transform: initial !important;
