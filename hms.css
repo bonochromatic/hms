@@ -522,7 +522,9 @@ h1#page-title {
 	padding: 0;
 }
 #content-column .block,
-#content-column .block.block-boxes-os_boxes_columns .region-three-33-first .block {
+.front #content-column .block,
+#content-column .block.block-boxes-os_boxes_columns .region-three-33-first .block,
+ {
 	border-top: 0;
 }
 .sidebar .block,
