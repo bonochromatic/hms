@@ -535,6 +535,9 @@ h1#page-title {
 	border-top: 4px solid #000;
 	margin-top: 12px;
 }
+.front #content-column .block.block-boxes-os_boxes_columns .block {
+	border:0px;
+}
 .boxes-box-os_pages_section_nav {
 	border-bottom:4px solid #000;
 	padding-bottom:15px;
