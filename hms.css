@@ -5,6 +5,9 @@
 	max-width: 1170px;
 	margin: auto;
 }
+.front #content-column .block .headerimage {
+	border-top:0px !important;
+}
 h3 {
 	outline:none !important;
 }
@@ -121,8 +124,22 @@ a:visited {
 }
 .field-name-body a:hover,
 .accordion-panel li a:hover,
-.accordion-panel a:hover  {
+.accordion-panel a:hover,
+{
 	text-decoration:underline !important;
+}
+.block-content h3 {
+	margin-bottom:20px;
+}
+.block-content h3 a {
+	color:#ad182d !important;
+}
+.block-content h3 a:hover {
+	text-decoration:underline !important;
+}
+.block-boxes-os_boxes_accordion {
+	margin-bottom:20px !important;
+	margin-top:20px !important;
 }
 .accordion-panel ul {
 	margin-bottom:0px;
