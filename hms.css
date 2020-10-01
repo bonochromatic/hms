@@ -522,10 +522,10 @@ h1#page-title {
 	padding: 0;
 }
 #content-column .block,
-.front #content-column .block,
+.front #content-column .block .headerimage,
 #content-column .block.block-boxes-os_boxes_columns .region-three-33-first .block,
  {
-	border-top: 0;
+	border-top: 0 !important;
 }
 .sidebar .block,
 .front #content-column .block,
